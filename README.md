@@ -1,2 +1,2 @@
 # Project.FCAI
-This is my best project I've done  
+A game made with c++ code , This was a task in my college : Structured programming subject
